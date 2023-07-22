@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Elbek aka .Net\\Projects\\CircleSurface\\CircleSurface.csproj",
+      "projectUniqueName": "d:\\Elbek aka .Net\\Projects\\CircleSurface\\CircleSurface.csproj",
       "projectName": "CircleSurface",
-      "projectPath": "D:\\Elbek aka .Net\\Projects\\CircleSurface\\CircleSurface.csproj",
+      "projectPath": "d:\\Elbek aka .Net\\Projects\\CircleSurface\\CircleSurface.csproj",
       "packagesPath": "C:\\Users\\zzrxm\\.nuget\\packages\\",
-      "outputPath": "D:\\Elbek aka .Net\\Projects\\CircleSurface\\obj\\",
+      "outputPath": "d:\\Elbek aka .Net\\Projects\\CircleSurface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
