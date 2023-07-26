@@ -10,7 +10,6 @@ namespace Space
 
             float radius = Convert.ToInt32(Console.ReadLine());
             const float p = 3.14F;
-
             if (radius > 0)
             {
                 Console.WriteLine("Calculating the surface of circle");
